@@ -49,7 +49,7 @@ I propose different tools and research codes based on scientific projects in whi
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-line-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-line-wordmark.svg" title="Apache" **alt="Apache" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
