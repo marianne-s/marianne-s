@@ -26,9 +26,12 @@
 
 From quantum modeling to bioinformatics and global models, I am passionate about sciences, theories, modeling, and computational model development.
 I propose different tools and research codes based on scientific projects in which I have had the great luck to participate with great team. 
+
+<!--
  
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marianne-s)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianne-s)](https://github.com/anuraghazra/github-readme-stats)
     </h3>
+-->
 
 ***
 <h3 align="center">
