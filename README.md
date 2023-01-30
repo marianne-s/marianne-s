@@ -8,9 +8,9 @@
   
 
 <p float="center">
-  <img src="https://media.giphy.com/media/H2j3QIFdyXKus/giphy.gif" height="100" />
-  <img src="https://media.giphy.com/media/11i03wSzIuNXiw/giphy.gif" height="100" /> 
-  <img src="https://github.com/marianne-s/marianne-s/blob/main/microplasticTransportM_Seijo.png" height="100" />
+  <img src="https://media.giphy.com/media/H2j3QIFdyXKus/giphy.gif" height="160" />
+  <img src="https://media.giphy.com/media/11i03wSzIuNXiw/giphy.gif" height="160" /> 
+  <img src="https://github.com/marianne-s/marianne-s/blob/main/microplasticTransportM_Seijo.png" height="160" />
 </p>
 
 </div>
