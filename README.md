@@ -1,3 +1,7 @@
+![alt text](https://media.giphy.com/media/H2j3QIFdyXKus/giphy.gif?raw=true) 
+![alt text](https://media.giphy.com/media/11i03wSzIuNXiw/giphy.gif?raw=true)
+![alt text](https://media.giphy.com/media/xULW8s6Z5CGIHcZKZa/giphy.gif?raw=true)
+
 ### Hi there 👋
 
 <!--
