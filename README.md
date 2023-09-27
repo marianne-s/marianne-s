@@ -24,8 +24,8 @@
 </div>
 <h3 align="center">
 
-From quantum modeling to bioinformatics and global models, I am passionate about sciences, theories, and computational model development.
-I propose different tools and research codes based on scientific projects in which I have had the great luck to participate with great team. 
+From quantum modelling to bioinformatics and global models, I am passionate about sciences, theories, and computational model development.
+I propose different tools and research codes based on scientific projects in which I have had the great luck to participate with a great team. 
     </h3>
 
 <!--
@@ -35,7 +35,7 @@ I propose different tools and research codes based on scientific projects in whi
 
 ***
 <h3 align="center">
-:hammer_and_wrench: Computational Languages and Tools I know:
+:hammer_and_wrench: I worked with:
   </h3>
 <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" height="40" height="40"/>&nbsp;
