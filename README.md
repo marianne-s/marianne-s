@@ -26,7 +26,7 @@
 
 From quantum modeling to bioinformatics and global models, ,<br>
 I am passionate about science, theories, and the development of computational models. ,<br>
-I offer various useful tools that I've created for scientific projects or teaching
+I offer various useful tools that I have created for scientific projects or teaching
      </h3>
 
 <!--
