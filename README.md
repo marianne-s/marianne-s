@@ -24,8 +24,9 @@
 </div>
 <h3 align="center">
 
-From quantum modelling to bioinformatics and global models, I am passionate about sciences, theories, and computational model development.
-I propose different useful tools created for scientific projects or for teaching. 
+From quantum modelling to bioinformatics and global models,<br>
+I am passionate about sciences, theories, and computational model development.<br>
+I propose different useful tools I created for scientific projects or teaching. 
     </h3>
 
 <!--
