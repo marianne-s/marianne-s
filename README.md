@@ -23,6 +23,7 @@
 
 </div>
 <h3 align="center">
+<img src="https://github.com/marianne-s/marianne-s/blob/main/marianne-s-octocat-avatar.gif" height="150" />
 
 From quantum modelling to bioinformatics and global models,<br>
 I am passionate about science, theories, and the development of computational models. <br>
