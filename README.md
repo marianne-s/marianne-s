@@ -8,9 +8,9 @@
   
 
 <p float="center">
-  <img src="https://media.giphy.com/media/H2j3QIFdyXKus/giphy.gif" height="160" />
-  <img src="https://media.giphy.com/media/11i03wSzIuNXiw/giphy.gif" height="160" /> 
-  <img src="https://github.com/marianne-s/marianne-s/blob/main/microplasticTransportM_Seijo.png" height="160" />
+  <img src="https://media.giphy.com/media/H2j3QIFdyXKus/giphy.gif" height="170" />
+  <img src="https://media.giphy.com/media/11i03wSzIuNXiw/giphy.gif" height="170" /> 
+  <img src="https://github.com/marianne-s/marianne-s/blob/main/microplasticTransportM_Seijo.png" height="170" />
 </p>
 
 </div>
@@ -23,7 +23,7 @@
 
 </div>
 <h3 align="center">
-<img src="https://github.com/marianne-s/marianne-s/blob/main/marianne-s-octocat-avatar.gif" height="150" />
+<img src="https://github.com/marianne-s/marianne-s/blob/main/marianne-s-octocat-avatar.gif" height="220" />
 
 From quantum modelling to bioinformatics and global models,<br>
 I am passionate about science, theories, and the development of computational models. <br>
